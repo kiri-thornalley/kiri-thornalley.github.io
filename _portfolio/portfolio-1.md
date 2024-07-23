@@ -1,7 +1,7 @@
 ---
 title: "Protein corona formation around polymeric nanoparticles"
-excerpt: "Protein corona formation /in vivo/ is a phenomenon of high current interest in pharmaceutical sciences. It is believed to be a contributory factor in the limited translational success of novel nanomedicines from lab bench to patient bedside. <br/>
-<img src='/images/bloodvessel_final.png'>"
+excerpt: "Protein corona formation _in vivo_ is a phenomenon of high current interest in pharmaceutical sciences. It is believed to be a contributory factor in the limited translational success of novel nanomedicines from lab bench to patient bedside. <br/>
+<img src='kiri-thornalley.github.io/images/bloodvessel_final.png'>"
 collection: portfolio
 ---
 Protein corona formation _in vivo_ is a spontaneous process which occurs when nanoparticles are introduced into any protein-containing fluid _e.g._ blood, serum, human plasma, but many other fluids have been previously investigated within the literature. The intention of this figure is to represent this spontaneous process _in vivo_, as well as represent the fact the composition of the protein corona evolves as a function of time.  <br/>
