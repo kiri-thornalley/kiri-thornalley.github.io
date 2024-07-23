@@ -17,15 +17,15 @@ Protein corona formation in vivo is a phenomenon of high current interest in pha
   *	Used advanced statistics including 3-way ANOVA to identify temperature, concentration and temporal effects on protein corona formation around polymeric nanoparticles.  <br/>
   *	Identified key parameters from a dataset derived from Computational Fluid Dynamics simulations using Principal Component Analysis. These parameters were later influential for the design of a 3D-printed microfluidic device capable of subjecting nanoparticles to physiologically relevant forces. 
 <br/>
-Thesis abstract available [here]()
-Data underpinning the thesis available [here]() <br/>
+Thesis abstract available [here](/phd-abstract/) <br/>
+Data underpinning the thesis available [here](https://doi.org/10.15129/0c656eea-2d11-4e79-abed-d792195f90fc) <br/>
 
 
 ## PG Certificate in Researcher Professional Development, University of Strathclyde, 2020 - 2022 <br/> ##
   A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. <br/>
 
-## MSc (by Research) Chemistry , University of York, 2016 - 2017
-<br/> ##
+## MSc (by Research) Chemistry, University of York, 2016 - 2017 ##
+<br/>
 _Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_<br/>
  * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. <br/>
   * Studied their self-assembly and binding of DNA and heparin sulfate using competition assays, Transmission Electron Microscopy and Circular Dichroism. <br/>
