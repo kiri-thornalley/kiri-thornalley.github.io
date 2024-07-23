@@ -13,17 +13,18 @@ Education
 ======
 PhD Pharmacy and Biomedical Sciences, University of Strathclyde, 2019- 2024 <br/>
 _Thesis title: 'Novel Devices for Evaluating Nanomedicine Biological Fate’_ 
-  Protein corona formation in vivo is a phenomenon of high current interest in pharmaceutical sciences; developing further understanding would accelerate the successful clinical translation of novel nanomedicines. 
-    *	Developed novel analytical methodologies (NTA, RMM) to assess changes in nanoparticle physicochemical characteristics following protein corona formation.
-    *	Used advanced statistics including 3-way ANOVA to identify temperature, concentration and temporal effects on protein corona formation around polymeric nanoparticles. 
-    *	Identified key parameters from a dataset derived from Computational Fluid Dynamics simulations using Principal Component Analysis. These parameters were later influential for the design of a 3D-printed microfluidic device capable of subjecting nanoparticles to physiologically relevant forces. 
+Protein corona formation in vivo is a phenomenon of high current interest in pharmaceutical sciences; developing further understanding would accelerate the successful clinical translation of novel nanomedicines. <br/>
+  *	Developed novel analytical methodologies (NTA, RMM) to assess changes in nanoparticle physicochemical characteristics following protein corona formation. <br/>
+  *	Used advanced statistics including 3-way ANOVA to identify temperature, concentration and temporal effects on protein corona formation around polymeric nanoparticles.  <br/>
+  *	Identified key parameters from a dataset derived from Computational Fluid Dynamics simulations using Principal Component Analysis. These parameters were later influential for the design of a 3D-printed microfluidic device capable of subjecting nanoparticles to physiologically relevant forces. 
 
 PG Certificate in Researcher Professional Development, University of Strathclyde, 2020 - 2022 <br/>
-  A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. 
+  A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. <br/>
+  
 MSc (by Research) Chemistry , University of York, 2016 - 2017
 <br/>
-_Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_
-  * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. 
+_Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_ <br/>
+ * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. <br/>
   * Studied their self-assembly and binding of DNA and heparin sulfate using competition assays, Transmission Electron Microscopy and Circular Dichroism.
 
 BSc (hons) Chemistry, University of Sheffield, 2012 - 2016
