@@ -21,10 +21,10 @@ repository               : "kiri-thornalley/kiri-thornalley.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kiri Thornalley"
-  pronouns         : "they/them"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : #"they/them"  
+  bio              : "Usually over-caffeinated Nanochemist. (they/them)"
   location         : "Grimsby, Lincolnshire"
   #employer         : "Red Brick University"#
   #uri              : # URL#
@@ -52,7 +52,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : 161349007-kiri-thornalley
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
