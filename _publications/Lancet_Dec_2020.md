@@ -2,12 +2,13 @@
 title: "Increasing the visibility of LGBTQ+ researchers in STEM"
 collection: publications
 #permalink: /publication/Lancet_Dec_2020
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-12-16
 venue: 'The Lancet'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'M.C. Sinton, K. Nicoll Baines, K.A. Thornalley, V. Llangovan, M. Kurt, <i/> Increasing Visibility of LGBTQ+ Researchers in STEM <i/>, The Lancet, 2021, 10269, 77-79'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+### Abstract
+Visibility creates a crucial sense of individual belonging and security for LGBTQ+ people, and those who are able to be open about their sexuality and gender can serve as role models for the wider community. Visible or not, LGBTQ+ people frequently encounter societal or legal discrimination, particularly in countries that retain colonial-era legislation. One of the aims of The STEM Village Virtual Symposium, which took place in August, 2020, was to increase visibility of LGBTQ+ individuals in the science, technology, engineering, and mathematics (STEM) community. More than 700 attendees participated, including from countries where it is dangerous or illegal to be openly LGBTQ+. We received feedback from people in these regions that events such as the symposium helped them to feel hopeful and part of a wider community.
