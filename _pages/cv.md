@@ -47,8 +47,8 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 Technical Skills
 * A wide range of analytical skills including:
   * DLS – measuring particle size
-  * NMR including 1H, 13C, DEPT-135 to confirm the identity of novel molecules
-	* Circular Dichroism confirmation of chirality and to begin to develop insights into secondary structure
+  * NMR including 1H, 13C, DEPT-135 to confirm the identity of novel molecules  
+  * Circular Dichroism confirmation of chirality and to begin to develop insights into secondary structure
   * Competition assays – Mallard Blue, Nile Red, Ethidium Bromide assessing binding of biological targets
   * Transmission Electron Microscopy to determine morphology of self-assembled molecules
 
