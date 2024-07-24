@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# Education #
-## PhD Pharmacy and Biomedical Sciences, University of Strathclyde, 2019 - 2024 ##
+## Education #
+### PhD Pharmacy and Biomedical Sciences, University of Strathclyde, 2019 - 2024 ##
 _Thesis title: 'Novel Devices for Evaluating Nanomedicine Biological Fate’_ <br/>
 Protein corona formation in vivo is a phenomenon of high current interest in pharmaceutical sciences; developing further understanding would accelerate the successful clinical translation of novel nanomedicines.
   *	Developed novel analytical methodologies (NTA, RMM) to assess changes in nanoparticle physicochemical characteristics following protein corona formation. <br/>
@@ -20,22 +20,22 @@ Protein corona formation in vivo is a phenomenon of high current interest in pha
 Thesis abstract available [here](/phd-abstract/) <br/>
 Data underpinning the thesis available [here](https://doi.org/10.15129/0c656eea-2d11-4e79-abed-d792195f90fc) 
 
-## PG Certificate in Researcher Professional Development, University of Strathclyde, 2020 - 2022 <br/> ##
+### PG Certificate in Researcher Professional Development, University of Strathclyde, 2020 - 2022 <br/> ##
   A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. 
 
-## MSc (by Research) Chemistry, University of York, 2016 - 2017 ##
+### MSc (by Research) Chemistry, University of York, 2016 - 2017 ##
 _Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_
  * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. <br/>
   * Studied their self-assembly and binding of DNA and heparin sulfate using competition assays, Transmission Electron Microscopy and Circular Dichroism. <br/>
 
 Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
-## BSc (hons) Chemistry, University of Sheffield, 2012 - 2016 ##
+### BSc (hons) Chemistry, University of Sheffield, 2012 - 2016 ##
 * Modules covered Inorganic, Organic and Physical Chemistry, with a specific focus on polymer and colloid chemistry. <br/>
 * First year modules included 40 credits of classes in German through the Modern Languages Teaching Centre at the University of Sheffield. These included a peer tandem module and a self directed research module which culminated in a 1500 word essay in German discussing whether the chemist Fritz Haber could be considered to be "evil" due to the role he played within the development of chemical weapons, and subsequent use of Zyklon B during WWII. <br/>
 * Final year included a 3000-word Literature Review on “Magnetic Particle Imaging and the many uses of Superparamagnetic Iron Oxide Nanoparticles (SPIONs) in Medicine”, and a group laboratory project exploring the effects of using air plasmas to alter the wettability of various polymer surfaces. <br/>
 
-# Teaching And Supervisory Experience #
+## Teaching And Supervisory Experience #
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -43,7 +43,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
   
 
   
-# Skills #
+## Skills #
 Technical Skills
 * A wide range of analytical skills including:
   * DLS – measuring particle size
@@ -72,63 +72,59 @@ Soft Skills
 * Leadership skills
 * Networking skills
 
-# Publications #
+## Publications #
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Prizes and Awards #
-## #RSC Poster, Online (via Twitter),	03/2020 ##
+## Prizes and Awards #
+### #RSC Poster, Online (via Twitter),	03/2020 ##
 Runner-up in the Nanoscience category. One of 24 winners out of nearly 800 entries.
 
-## RSC Organic Division North East Regional Meeting, Durham University,	03/2017 ##
+### RSC Organic Division North East Regional Meeting, Durham University,	03/2017 ##
 Won Networking prize.
 
-# Talks and Poster Presentations #
+## Talks and Poster Presentations #
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
  
-# Outreach, Widening Participation and Public Engagement #
-## Sense about Science, Participant, 09/2022 ##
+## Outreach, Widening Participation and Public Engagement #
+### Sense about Science, Participant, 09/2022 ##
 An interactive workshop on communicating with the media, designing effective public engagement and how early career researchers can influence science policy.
 
-## The STEM Village, Organisation committee/session chair,  08/2020 ##
+### The STEM Village, Organisation committee/session chair,  08/2020 ##
 Organised a two-day virtual conference to showcase the work of a wide variety of LGBTQ+ researchers within STEM from across the globe. Particular emphasis was placed on showcasing LGBTQ+ POC researchers. <br/>
 Approximately 700 viewers attended at least part of the talks included within the symposium. Learnt to use both open-source video editing software as well as YouTube Studio in order to add accurate captions to videos to enable accessibility of recorded talks for symposium participants. 
 
-## I’m A Scientist (So stay at home!),	Participant,  05/2020 – 07/2020 ##
+### I’m A Scientist (So stay at home!),	Participant,  05/2020 – 07/2020 ##
 Active participant in both Chemistry and Summer Zones. By the end of July, I had completed over 30 hours of webchats with a wide variety of groups aged 7 – 18. 
 
-## West of Scotland Hub, STEM Ambassador, 01/2020 – 01/2023 ##
+### West of Scotland Hub, STEM Ambassador, 01/2020 – 01/2023 ##
 STEM Ambassadors are PVG-checked volunteers who freely give up their time to bring science to life for a wide range of in and out of school groups. 
 
-# Membership of Professional Societies #
+## Membership of Professional Societies #
 Royal Society of Chemistry (AMRSC) <br/>
 British Society of Nanomedicine <br/>
 UK and Ireland Controlled Release Society <br/>
 Academy of Pharmaceutical Sciences <br/>
 
 
-# Employment Experience #
+## Employment Experience #
 ### Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
-* Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists <br/>
-
+* Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists 
 ### Community Ambassador, Hello Student, 08/2020 – 01/2021
 * Responsible for supporting residents and dealing with any incident that happened in the building outwith office hours 
-* Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building <br/> 
-
+* Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building 
 ### Customer Contact Assistant, Public Sector Partnership Services Ltd, 01/2018 – 03/2018 and 01/2019 - 04/2019
 * Taking phone calls and processing card and cheque payments for the payable garden waste service 
 * Using computer systems to check information regarding household waste services.
-* Developed an awareness of GDPR <br/>
-
+* Developed an awareness of GDPR
 ### Graduate Teaching Assistant,	University of York, 01/2017 - 09/2017
 * Delivered part of the undergraduate laboratory teaching, under the supervision of a senior demonstrator _e.g._ briefing undergraduates, making sure they work in a safe manner and providing assistance with new practical skills
 * Responsible for marking laboratory work and providing written and verbal feedback <br/>
-
 ### General Operative, Various, 05/2012 - 09/2016
 * A variety of  temporary roles including applying promotional stickers to packets and packing product in such a way to meet the requirements of the customer <br/>
