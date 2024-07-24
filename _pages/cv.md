@@ -18,13 +18,13 @@ Protein corona formation in vivo is a phenomenon of high current interest in pha
   *	Identified key parameters from a dataset derived from Computational Fluid Dynamics simulations using Principal Component Analysis. These parameters were later influential for the design of a 3D-printed microfluidic device capable of subjecting nanoparticles to physiologically relevant forces.<br/> 
 
 Thesis abstract available [here](/phd-abstract/) <br/>
-Data underpinning the thesis available [here](https://doi.org/10.15129/0c656eea-2d11-4e79-abed-d792195f90fc) <br/>
+Data underpinning the thesis available [here](https://doi.org/10.15129/0c656eea-2d11-4e79-abed-d792195f90fc) 
 
 ## PG Certificate in Researcher Professional Development, University of Strathclyde, 2020 - 2022 <br/> ##
-  A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. <br/>
+  A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. 
 
 ## MSc (by Research) Chemistry, University of York, 2016 - 2017 ##
-_Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_<br/>
+_Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_
  * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. <br/>
   * Studied their self-assembly and binding of DNA and heparin sulfate using competition assays, Transmission Electron Microscopy and Circular Dichroism. <br/>
 
@@ -60,10 +60,10 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
 # Prizes and Awards #
 ## #RSC Poster, Online (via Twitter),	03/2020 ##
-Runner-up in the Nanoscience category. One of 24 winners out of nearly 800 entries. <br/>
+Runner-up in the Nanoscience category. One of 24 winners out of nearly 800 entries.
 
 ## RSC Organic Division North East Regional Meeting, Durham University,	03/2017 ##
-Won Networking prize. <br/>
+Won Networking prize.
 
 # Talks and Poster Presentations #
 
@@ -74,10 +74,10 @@ Won Networking prize. <br/>
  
 # Outreach, Widening Participation and Public Engagement #
 ## Sense about Science, Participant, 09/2022 ##
-An interactive workshop on communicating with the media, designing effective public engagement and how early career researchers can influence science policy. </br>
+An interactive workshop on communicating with the media, designing effective public engagement and how early career researchers can influence science policy.
 
 ## The STEM Village, Organisation committee/session chair,  08/2020 ##
-Organised a two-day virtual conference to showcase the work of a wide variety of LGBTQ+ researchers within STEM from across the globe. Particular emphasis was placed on showcasing LGBTQ+ POC researchers. </br>
+Organised a two-day virtual conference to showcase the work of a wide variety of LGBTQ+ researchers within STEM from across the globe. Particular emphasis was placed on showcasing LGBTQ+ POC researchers. <br/>
 Approximately 700 viewers attended at least part of the talks included within the symposium. Learnt to use both open-source video editing software as well as YouTube Studio in order to add accurate captions to videos to enable accessibility of recorded talks for symposium participants. 
 
 ## I’m A Scientist (So stay at home!),	Participant,  05/2020 – 07/2020 ##
@@ -86,13 +86,11 @@ Active participant in both Chemistry and Summer Zones. By the end of July, I had
 ## West of Scotland Hub, STEM Ambassador, 01/2020 – 01/2023 ##
 STEM Ambassadors are PVG-checked volunteers who freely give up their time to bring science to life for a wide range of in and out of school groups. 
 
-
-
 # Membership of Professional Societies #
-Royal Society of Chemistry (AMRSC) </br>
-British Society of Nanomedicine </br>
-UK and Ireland Controlled Release Society </br>
-Academy of Pharmaceutical Sciences </br>
+Royal Society of Chemistry (AMRSC) <br/>
+British Society of Nanomedicine <br/>
+UK and Ireland Controlled Release Society <br/>
+Academy of Pharmaceutical Sciences <br/>
 
 
 # Employment Experience #
