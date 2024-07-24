@@ -115,7 +115,7 @@ Academy of Pharmaceutical Sciences <br/>
 
 ## Employment Experience #
 ### Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
-* Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists 
+* Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists <br/>
 ### Community Ambassador, Hello Student, 08/2020 – 01/2021
 * Responsible for supporting residents and dealing with any incident that happened in the building outwith office hours 
 * Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building 
