@@ -44,8 +44,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
   
 # Skills #
-## Technical Skills ##
-
+Technical Skills
 * A wide range of analytical skills including:
   * DLS – measuring particle size
   * NMR including 1H, 13C, DEPT-135 to confirm the identity of novel molecules
@@ -64,7 +63,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 * Independently learnt to build an augmented app for Android using [Unity](https://unity.com/) and [Vuforia](https://www.ptc.com/en/products/vuforia) to accompany PhD thesis
 * Familiar with using Blender to create 2- and 3D animations as well as scientific illustration. See [Portfolio](/portfolio/) 
 
-## Soft Skills ##
+Soft Skills
 * Able to present research with authority and coherence in spite of being the youngest at the event
 * Time management and prioritisation of tasks – using methods like Eisenhower Matrix. 
 * Organisation and data management skills – PhD project generated ~200GB of data. 
@@ -115,22 +114,21 @@ Academy of Pharmaceutical Sciences <br/>
 
 
 # Employment Experience #
-
-Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
+### Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
 * Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists <br/>
 
-Community Ambassador, Hello Student, 08/2020 – 01/2021
+### Community Ambassador, Hello Student, 08/2020 – 01/2021
 * Responsible for supporting residents and dealing with any incident that happened in the building outwith office hours 
 * Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building <br/> 
 
-Customer Contact Assistant, Public Sector Partnership Services Ltd, 01/2018 – 03/2018 and 01/2019 - 04/2019
+### Customer Contact Assistant, Public Sector Partnership Services Ltd, 01/2018 – 03/2018 and 01/2019 - 04/2019
 * Taking phone calls and processing card and cheque payments for the payable garden waste service 
 * Using computer systems to check information regarding household waste services.
 * Developed an awareness of GDPR <br/>
 
-Graduate Teaching Assistant,	University of York, 01/2017 - 09/2017
+### Graduate Teaching Assistant,	University of York, 01/2017 - 09/2017
 * Delivered part of the undergraduate laboratory teaching, under the supervision of a senior demonstrator _e.g._ briefing undergraduates, making sure they work in a safe manner and providing assistance with new practical skills
 * Responsible for marking laboratory work and providing written and verbal feedback <br/>
 
-General Operative, Various, 05/2012 - 09/2016
+### General Operative, Various, 05/2012 - 09/2016
 * A variety of  temporary roles including applying promotional stickers to packets and packing product in such a way to meet the requirements of the customer <br/>
