@@ -44,13 +44,34 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
   
 # Skills #
+## Technical Skills ##
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* A wide range of analytical skills including:
+  * DLS – measuring particle size
+  * NMR including 1H, 13C, DEPT-135 to confirm the identity of novel molecules
+	* Circular Dichroism confirmation of chirality and to begin to develop insights into secondary structure
+  * Competition assays – Mallard Blue, Nile Red, Ethidium Bromide assessing binding of biological targets
+  * Transmission Electron Microscopy to determine morphology of self-assembled molecules
+
+* Analytical Method Development for novel technologies:
+  * Nanoparticle Tracking Analysis, Resonant Mass Measurement for measuring size, mass and concentration of sub-micron polymeric nanoparticles
+
+* Computational Fluid Dynamics with/without the addition of Discrete Element Method to simultaneously study particle/ fluid behaviour 
+*	Significant experience of using Microsoft Office (Word, Excel, PowerPoint and Outlook) as well as specialist software
+* Familiarity with Machine Learning (CNN, PCA) using Python
+* Use of shell scripts and GNU Make to automate data analysis
+* Use of Git for version control and GitHub as an online public code repository
+* Independently learnt to build an augmented app for Android using [Unity](https://unity.com/) and [Vuforia](https://www.ptc.com/en/products/vuforia) to accompany PhD thesis
+* Familiar with using Blender to create 2- and 3D animations as well as scientific illustration. See [Portfolio](/portfolio/) 
+
+## Soft Skills ##
+* Able to present research with authority and coherence in spite of being the youngest at the event
+* Time management and prioritisation of tasks – using methods like Eisenhower Matrix. 
+* Organisation and data management skills – PhD project generated ~200GB of data. 
+* Team working and collaboration – organisation of The STEM Village Virtual Symposium  
+* Problem solving skills
+* Leadership skills
+* Networking skills
 
 # Publications #
 
