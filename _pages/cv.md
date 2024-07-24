@@ -116,15 +116,21 @@ Academy of Pharmaceutical Sciences <br/>
 ## Employment Experience #
 ### Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
 * Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists <br/>
+
 ### Community Ambassador, Hello Student, 08/2020 – 01/2021
 * Responsible for supporting residents and dealing with any incident that happened in the building outwith office hours 
 * Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building 
+
 ### Customer Contact Assistant, Public Sector Partnership Services Ltd, 01/2018 – 03/2018 and 01/2019 - 04/2019
 * Taking phone calls and processing card and cheque payments for the payable garden waste service 
 * Using computer systems to check information regarding household waste services.
 * Developed an awareness of GDPR
+
 ### Graduate Teaching Assistant,	University of York, 01/2017 - 09/2017
 * Delivered part of the undergraduate laboratory teaching, under the supervision of a senior demonstrator _e.g._ briefing undergraduates, making sure they work in a safe manner and providing assistance with new practical skills
 * Responsible for marking laboratory work and providing written and verbal feedback <br/>
+
 ### General Operative, Various, 05/2012 - 09/2016
 * A variety of  temporary roles including applying promotional stickers to packets and packing product in such a way to meet the requirements of the customer <br/>
+<br/>
+_References Available on Request_
