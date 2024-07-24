@@ -6,8 +6,8 @@ excerpt: ''
 date: 2020-12-16
 venue: 'The Lancet'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'M.C. Sinton, K. Nicoll Baines, K.A. Thornalley, V. Llangovan, M. Kurt, <i/> Increasing Visibility of LGBTQ+ Researchers in STEM <i/>, The Lancet, 2021, 10269, 77-79'
+paperurl: 'https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32626-X/abstract'
+citation: 'M.C. Sinton, K. Nicoll Baines, K.A. Thornalley, V. Llangovan, M. Kurt, Increasing Visibility of LGBTQ+ Researchers in STEM, The Lancet, 2021, 10269, 77-79'
 ---
 
 ### Abstract
