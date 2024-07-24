@@ -41,8 +41,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <br/>
-
-    <ul>{% for post in site.supervision reversed %}
+   <ul>{% for post in site.supervision reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
