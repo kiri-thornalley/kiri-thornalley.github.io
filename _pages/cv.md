@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Education #
-## PhD Pharmacy and Biomedical Sciences, University of Strathclyde, 2019 - 2024 <br/> ##
+## PhD Pharmacy and Biomedical Sciences, University of Strathclyde, 2019 - 2024 ##
 _Thesis title: 'Novel Devices for Evaluating Nanomedicine Biological Fate’_ <br/>
-Protein corona formation in vivo is a phenomenon of high current interest in pharmaceutical sciences; developing further understanding would accelerate the successful clinical translation of novel nanomedicines. <br/>
+Protein corona formation in vivo is a phenomenon of high current interest in pharmaceutical sciences; developing further understanding would accelerate the successful clinical translation of novel nanomedicines.
   *	Developed novel analytical methodologies (NTA, RMM) to assess changes in nanoparticle physicochemical characteristics following protein corona formation. <br/>
   *	Used advanced statistics including 3-way ANOVA to identify temperature, concentration and temporal effects on protein corona formation around polymeric nanoparticles.  <br/>
   *	Identified key parameters from a dataset derived from Computational Fluid Dynamics simulations using Principal Component Analysis. These parameters were later influential for the design of a 3D-printed microfluidic device capable of subjecting nanoparticles to physiologically relevant forces.<br/> 
@@ -24,7 +24,6 @@ Data underpinning the thesis available [here](https://doi.org/10.15129/0c656eea-
   A 60-credit qualification, achieved by undertaking activities that cover all 4 domains of the Researcher Development Framework. <br/>
 
 ## MSc (by Research) Chemistry, University of York, 2016 - 2017 ##
-<br/>
 _Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Binding Nanostructures’_<br/>
  * Synthesised a family of palmitic acid-based self-assembling lipopeptides. Confirmed their identity via a number of analytical methods including Mass Spectrometry, NMR and IR Spectroscopy. <br/>
   * Studied their self-assembly and binding of DNA and heparin sulfate using competition assays, Transmission Electron Microscopy and Circular Dichroism. <br/>
@@ -32,7 +31,6 @@ _Thesis title: ‘Structure-Activity Relationships in Self-Assembled Heparin-Bin
 Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
 ## BSc (hons) Chemistry, University of Sheffield, 2012 - 2016 ##
-<br/>
 * Modules covered Inorganic, Organic and Physical Chemistry, with a specific focus on polymer and colloid chemistry. <br/>
 * First year modules included 40 credits of classes in German through the Modern Languages Teaching Centre at the University of Sheffield. These included a peer tandem module and a self directed research module which culminated in a 1500 word essay in German discussing whether the chemist Fritz Haber could be considered to be "evil" due to the role he played within the development of chemical weapons, and subsequent use of Zyklon B during WWII. <br/>
 * Final year included a 3000-word Literature Review on “Magnetic Particle Imaging and the many uses of Superparamagnetic Iron Oxide Nanoparticles (SPIONs) in Medicine”, and a group laboratory project exploring the effects of using air plasmas to alter the wettability of various polymer surfaces. <br/>
