@@ -69,7 +69,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 * Time management and prioritisation of tasks – using methods like Eisenhower Matrix. 
 * Organisation and data management skills – PhD project generated ~200GB of data. 
 * Team working and collaboration – organisation of The STEM Village Virtual Symposium  
-* Problem solving skills
+* Problem solving skills 
 * Leadership skills
 * Networking skills
 
@@ -116,17 +116,21 @@ Academy of Pharmaceutical Sciences <br/>
 
 # Employment Experience #
 
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Graduate Teaching Assistant,	University of Strathclyde,	01/2020 – 08/2023
+* Supervised computational and wet laboratory sessions for undergraduate Biomedical Scientists and Pharmacists <br/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Community Ambassador, Hello Student, 08/2020 – 01/2021
+* Responsible for supporting residents and dealing with any incident that happened in the building outwith office hours 
+* Problem solving and liaising with senior colleagues or external contractors when more specialist support was required to fix issues _e.g._ significant water leak in the building <br/> 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Customer Contact Assistant, Public Sector Partnership Services Ltd, 01/2018 – 03/2018 and 01/2019 - 04/2019
+* Taking phone calls and processing card and cheque payments for the payable garden waste service 
+* Using computer systems to check information regarding household waste services.
+* Developed an awareness of GDPR <br/>
+
+Graduate Teaching Assistant,	University of York, 01/2017 - 09/2017
+* Delivered part of the undergraduate laboratory teaching, under the supervision of a senior demonstrator _e.g._ briefing undergraduates, making sure they work in a safe manner and providing assistance with new practical skills
+* Responsible for marking laboratory work and providing written and verbal feedback <br/>
+
+General Operative, Various, 05/2012 - 09/2016
+* A variety of  temporary roles including applying promotional stickers to packets and packing product in such a way to meet the requirements of the customer <br/>
