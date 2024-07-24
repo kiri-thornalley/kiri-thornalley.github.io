@@ -45,9 +45,8 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
 ## Skills #
-Technical Skills
+### Technical Skills
 * A wide range of analytical skills including:
   * DLS – measuring particle size
   * NMR including 1H, 13C, DEPT-135 to confirm the identity of novel molecules  
@@ -66,14 +65,14 @@ Technical Skills
 * Independently learnt to build an augmented app for Android using [Unity](https://unity.com/) and [Vuforia](https://www.ptc.com/en/products/vuforia) to accompany PhD thesis
 * Familiar with using Blender to create 2- and 3D animations as well as scientific illustration. See [Portfolio](/portfolio/) 
 
-Soft Skills
+### Transferable skills
 * Able to present research with authority and coherence in spite of being the youngest at the event
 * Time management and prioritisation of tasks – using methods like Eisenhower Matrix. 
 * Organisation and data management skills – PhD project generated ~200GB of data. 
 * Team working and collaboration – organisation of The STEM Village Virtual Symposium  
-* Problem solving skills 
+* Problem solving skills - solving why simultations do run, debugging code, trouble shooting synthetic experiments
 * Leadership skills
-* Networking skills
+* Networking skills - beginning to build networks outside my current institution
 
 ## Publications #
 
