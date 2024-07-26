@@ -200,7 +200,7 @@ kramdown:
 
 # Collections
 collections:
-  Supervision:
+  supervision:
     output: true
     permalink: /:collection/:path/
   teaching:
