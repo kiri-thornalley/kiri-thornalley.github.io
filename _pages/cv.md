@@ -37,13 +37,13 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 
 ## Teaching And Supervisory Experience #
 
-{% for post in site.teaching reversed %}
+<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
-{% for post in site.supervision reversed %}
+<ul>{% for post in site.supervision reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 ## Skills #
 ### Technical Skills
