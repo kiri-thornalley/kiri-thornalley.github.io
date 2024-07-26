@@ -1,12 +1,45 @@
 ---
-layout: grid
+layout:
 title: "Portfolio"
 permalink: /portfolio/
 
 ---
 
-{% include base_path %}
+<div class="portfolio-archive">
+  {% for post in site.portfolio %}
+    <div class="portfolio-item">
+      <a href="{{ post.url }}">
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+        <h2>{{ post.title }}</h2>
+      </a>
+      <p>{{ post.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+.portfolio-archive {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Adjust spacing between items */
+}
+
+.portfolio-item {
+  flex: 1 1 calc(33.333% - 20px); /* Adjust the width of each item */
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.portfolio-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+.portfolio-item h2 {
+  margin-top: 10px;
+}
+
+.portfolio-item p {
+  margin-top: 5px;
+}
+</style>
