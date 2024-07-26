@@ -40,6 +40,10 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  <ul>{% for post in site.supervision reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Skills #
 ### Technical Skills
