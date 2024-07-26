@@ -40,10 +40,6 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<br/>
-   <ul>{% for post in site.supervision reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 ## Skills #
 ### Technical Skills
@@ -70,7 +66,7 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 * Time management and prioritisation of tasks – using methods like Eisenhower Matrix. 
 * Organisation and data management skills – PhD project generated ~200GB of data. 
 * Team working and collaboration – organisation of The STEM Village Virtual Symposium  
-* Problem solving skills - solving why simultations do run, debugging code, trouble shooting synthetic experiments
+* Problem solving skills - solving why simulations do not run, debugging code, trouble shooting synthetic experiments
 * Leadership skills
 * Networking skills - beginning to build networks outside my current institution
 
