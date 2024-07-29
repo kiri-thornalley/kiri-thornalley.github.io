@@ -17,8 +17,8 @@ As a passionate advocate for Equity, Diversity and Inclusion, I fundamentally be
 
 My research interests include:
 <ul>
-* Small molecule synthesis for medicinal purposes
-* Developing novel analytical methods
-* Machine Learning and Artificial Intellegence to enhance decision making
-* Laboratory automation and "self-driving laboratories"
+* Small molecule synthesis for medicinal purposes<br/>
+* Developing novel analytical methods <br/>
+* Machine Learning and Artificial Intellegence to enhance decision making <br/>
+* Laboratory automation and "self-driving laboratories" <br/>
 </ul>
