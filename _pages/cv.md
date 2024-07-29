@@ -35,6 +35,20 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 * First year modules included 40 credits of classes in German through the Modern Languages Teaching Centre at the University of Sheffield. These included a peer tandem module and a self directed research module which culminated in a 1500 word essay in German discussing whether the chemist Fritz Haber could be considered to be "evil" due to the role he played within the development of chemical weapons, and subsequent use of Zyklon B during WWII. <br/>
 * Final year included a 3000-word Literature Review on “Magnetic Particle Imaging and the many uses of Superparamagnetic Iron Oxide Nanoparticles (SPIONs) in Medicine”, and a group laboratory project exploring the effects of using air plasmas to alter the wettability of various polymer surfaces. <br/>
 
+## Certifications
+### Introduction to SQL and Data		Code First Girls		    	04/2024 – 05/2024
+Covers the fundamentals of SQL and database design (data manipulation and analysis in SQL, database manipulation and data visualisation using Tableau). By the end of the course, participants are able to build, deploy and maintain a database.
+### Introduction to Python and Apps		Code First Girls	 		08/2023 – 11/2023
+Introduces the basics of Python (data types and variables, logic, loops and IF statements, using dictionaries and lists and finally introducing and using APIs). By the end of the course, participants are able to build a web app using an API.
+
+## Projects
+### Coffee Shop Database
+This project uses a synthetic data set from Kaggle. I converted these .CSV files into a database using SQL. A number of advanced features were implemented into this database including user defined functions and procedures e.g., for the addition of new items to the menu. The data was analysed and a dashboard for this database built using Tableau Public.
+### American Sign Language Translator
+This project uses the Sign Language MNIST data set, to build a convolutional neural network (CNN) to interpret live ASL into text. Plotted confusion matrix, Accuracy and Loss plots for both training and test sets. Current CNN has an 87.7% accuracy rate with its translation. Packages used: Pandas, NumPy, Matplotlib, ScikitLearn, Keras, ONNX.
+### Introduction to Python MOOC Challenge 2023 – Sponsored by DSTL
+A mock scenario was created where a unknown Binary file had been intercepted from a mystery drone that had been spotted. Project involved the analysis of this binary file using Python (extracting .jpeg files and geographical coordinates), development of an animation to reconstruct camera footage in real time as well as plot the drones flight path using Google Maps. Packages used: OpenCV,  GMPlot, GPX_Converter.
+
 ## Teaching And Supervisory Experience #
 
 <ul>{% for post in site.teaching reversed %}
