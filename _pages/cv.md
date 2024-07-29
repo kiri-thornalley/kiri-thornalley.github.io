@@ -85,7 +85,7 @@ A mock scenario was created where a unknown Binary file had been intercepted fro
 * Organisation and data management skills – PhD project generated ~200GB of data. 
 * Team working and collaboration – organisation of The STEM Village Virtual Symposium  
 * Problem solving skills - solving why simulations do not run, debugging code, trouble shooting synthetic experiments
-* Leadership skills
+* Leadership skills - mentoring
 * Networking skills - beginning to build networks outside my current institution
 
 ## Publications #
