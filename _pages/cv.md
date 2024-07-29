@@ -36,9 +36,9 @@ Thesis available [here](https://etheses.whiterose.ac.uk/20048/)
 * Final year included a 3000-word Literature Review on “Magnetic Particle Imaging and the many uses of Superparamagnetic Iron Oxide Nanoparticles (SPIONs) in Medicine”, and a group laboratory project exploring the effects of using air plasmas to alter the wettability of various polymer surfaces. <br/>
 
 ## Certifications
-### Introduction to SQL and Data		Code First Girls		    	04/2024 – 05/2024
+### Introduction to SQL and Data, Code First Girls, 04/2024 – 05/2024
 Covers the fundamentals of SQL and database design (data manipulation and analysis in SQL, database manipulation and data visualisation using Tableau). By the end of the course, participants are able to build, deploy and maintain a database.
-### Introduction to Python and Apps		Code First Girls	 		08/2023 – 11/2023
+### Introduction to Python and Apps, Code First Girls, 08/2023 – 11/2023
 Introduces the basics of Python (data types and variables, logic, loops and IF statements, using dictionaries and lists and finally introducing and using APIs). By the end of the course, participants are able to build a web app using an API.
 
 ## Projects
