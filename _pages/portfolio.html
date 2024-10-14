@@ -10,12 +10,10 @@ permalink: /portfolio/
       <a href="{{ post.url }}">
         <img src="{{ post.image }}" 
              alt="{{ post.title }}" 
-             title="{{ post.title }}" 
              onmouseover="this.src='{{ post.hover_image }}'" 
              onmouseout="this.src='{{ post.image }}'">
       </a>
-      <p><b>{{ post.title }}</b></p>
-    </div>
+      </div>
   {% endfor %}
 </div>
 
