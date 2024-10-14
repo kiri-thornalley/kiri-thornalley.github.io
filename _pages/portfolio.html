@@ -9,9 +9,9 @@ permalink: /portfolio/
   {% for post in site.portfolio %}
     <div class="portfolio-item">
       <a href="{{ post.url }}">
-        <img src="{{ post.image }}" alt="{{ post.title }}">
-            </a>
-      <p><b>{{ post.title }}</b></p>
+        <img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}">
+      </a>
+       <p><b>{{ post.title }}</b></p>
     </div>
   {% endfor %}
 </div>
