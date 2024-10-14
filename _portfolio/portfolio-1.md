@@ -1,6 +1,7 @@
 ---
 title: "Protein corona formation around polymeric nanoparticles"
 image: "/images/bloodvessel_final.png"
+hover_image: "/images/500x300.png"
 excerpt: "Protein corona formation _in vivo_ is a phenomenon of high current interest in pharmaceutical sciences. It is believed to be a contributory factor in the limited translational success of novel nanomedicines from lab bench to patient bedside."
 collection: portfolio
 ---
