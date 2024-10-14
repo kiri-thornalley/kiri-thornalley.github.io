@@ -20,60 +20,57 @@ permalink: /portfolio/
 </div>
 
 <style>
-.portfolio-archive {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px; /* Adjust spacing between items */
-}
-
-.portfolio-item {
-  flex: 1 1 calc(50% - 20px); /* Controls number of items per row */
-  box-sizing: border-box;
-  text-align: center;
-}
-
-.image-container {
-  position: relative;
-  width: 500px; /* Set the width */
-  height: 300px; /* Set the height */
-}
-
-.image-container img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.7); /* Grey background with opacity */
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.image-container:hover .overlay {
-  opacity: 1;
-}
-
-.overlay-title {
-  font-size: 1.2em;
-  text-align: center;
-  padding: 10px;
-}
-
-.portfolio-item h2 {
-  margin-top: 10px;
-}
-
-.portfolio-item p {
-  margin-top: 5px;
-}
-</style>
+  .portfolio-archive {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust spacing between items */
+    justify-content: space-between; /* Space items evenly */
+  }
+  
+  .portfolio-item {
+    flex: 1 1 calc(33.33% - 20px); /* Three items per row, accounting for gap */
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .image-container {
+    position: relative;
+    width: 100%; /* Use full width of parent */
+    height: 300px; /* Set the height */
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Grey background with opacity */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .image-container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .overlay-title {
+    font-size: 1.2em;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .portfolio-item p {
+    margin-top: 5px;
+  }
+  </style>
