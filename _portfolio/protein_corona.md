@@ -13,3 +13,7 @@ Later, this figure was significantly reworked and turned into a 3D animation for
 <video src="https://github.com/user-attachments/assets/74b52e0b-cbbf-4f05-9756-1955a4852be4" controls="controls" style="max-width: 730px;">
 </video>
 
+
+
+
+
