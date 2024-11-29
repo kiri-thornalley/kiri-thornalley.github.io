@@ -9,8 +9,12 @@ To create this, a combination of [Blender](https://www.blender.org/), [Avogadro]
 
 Later, this figure was significantly reworked and turned into a 3D animation for my viva voce presentation. 
  <br/>
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/143103370/391068549-d4af763d-4f98-4238-ac73-b2b621963450.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T112427Z&X-Amz-Expires=300&X-Amz-Signature=594069a61ed351aaf16b7b3a9a02cc2e8dee9f5a3f57a7cb4ce54ff3b58d008b&X-Amz-SignedHeaders=host" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/110cde3c-cb00-49b8-94e3-8b9ebbf758ed" controls="controls" style="max-width: 730px;">
 </video>
+
+
+
+
 
 
 
