@@ -1,7 +1,6 @@
 ---
 title: "Protein corona formation around polymeric nanoparticles"
 image: "/images/bloodvessel_final.png"
-hover_image: "/images/500x300.png"
 excerpt: "Protein corona formation _in vivo_ is a phenomenon of high current interest in pharmaceutical sciences. It is believed to be a contributory factor in the limited translational success of novel nanomedicines from lab bench to patient bedside."
 collection: portfolio
 ---
@@ -10,6 +9,18 @@ To create this, a combination of [Blender](https://www.blender.org/), [Avogadro]
 
 Later, this figure was significantly reworked and turned into a 3D animation for my viva voce presentation. 
  <br/>
-<video src="https://github.com/user-attachments/assets/74b52e0b-cbbf-4f05-9756-1955a4852be4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/110cde3c-cb00-49b8-94e3-8b9ebbf758ed" controls="controls" style="max-width: 730px;">
 </video>
+
+
+
+
+
+
+
+
+
+
+
+
 
