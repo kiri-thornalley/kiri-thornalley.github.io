@@ -1,61 +1,58 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Kiri Thornalley",
+    "website": "https://kiri-thornalley.github.io",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Grimsby, Lincolnshire",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0001-5318-4075"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kiri-thornalley",
+        "url": "https://github.com/kiri-thornalley"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kiri-thornalley-a28247119",
+        "url": "https://www.linkedin.com/in/kiri-thornalley-a28247119"
       }
     ]
   },
   "work": [],
   "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+        {
+      "institution": "University of Strathclyde",
+      "area": "PhD Pharmacy and Biomedical Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of York",
+      "area": "MSc (by Research) Chemistry",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Sheffield",
+      "area": "BSc (hons) Chemistry",
+      "studyType": "PhD",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     }
@@ -63,7 +60,6 @@
   "skills": [],
   "languages": [],
   "interests": [],
-  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
